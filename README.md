@@ -1,0 +1,2 @@
+# SQC
+statistical quality control
